@@ -41,7 +41,6 @@ const acceptInputHandler = (obj) => {
   setPlayPause();
   videoElement.play();
   videoElement.volume = 0.3;
-  // videoElement.defaultplaybackRate = 1;
   videoElement.addEventListener("loadedmetadata", function(){
     duration = Math.round(videoElement.duration);
     // console.log(duration);

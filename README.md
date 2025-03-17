@@ -45,9 +45,6 @@ This is a web-based media player inspired by VLC Media Player, allowing users to
 - Add subtitles and captions support.
 - Enhance UI with animations and themes.
 
-## License
-
-This project is open-source and free to use.
 
 
 
