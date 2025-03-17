@@ -104,7 +104,7 @@ footer{
 }
 
 .time-container>*{
-    outline: 1px red solid;
+    /* outline: 1px red solid; */
     text-align: center;
 }
 
